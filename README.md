@@ -11,3 +11,7 @@ useful for reading, writing, and saving notes
 
 ## License
 MIT License
+
+## For Grading
+heroku: https://note-taker-and-reader.herokuapp.com/
+repo: https://github.com/MilkyRamen/notetaker
